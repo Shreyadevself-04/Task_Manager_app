@@ -1,0 +1,6 @@
+{
+  "name": "Wisteria Task Garden",
+  "description": "A collaborative real-time task management sanctuary with offline support and a living, blossoming wisteria tree that grows and cascades windblown petals as tasks are completed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
